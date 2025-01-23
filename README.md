@@ -1,4 +1,4 @@
-# Market-Research
+# Market-Research - Gen AI CIOs perspectives for 2025
 Market research, segment data, business intelligence, data governance, and B2B strategies.
 
 Empowering businesses to unlock their full potential with data-driven insights, combining market research expertise, in-depth segment analysis, business intelligence, data governance, and innovative B2B strategies tailored for success in a competitive landscape.
